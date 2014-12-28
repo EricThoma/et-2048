@@ -1,7 +1,7 @@
 et-2048
 =======
 
-2048 bot written in C
+2048 bot I wrote in C sometime in summer 2014
 
 The evaluation function (what makes it good) is inspired by the thread: http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048.
 
